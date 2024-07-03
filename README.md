@@ -1,7 +1,27 @@
 # sales_exploratory_data-analysis
 
+### DATA DESCRIPTION 
+##### DATA SOURCE: CRM_and_Sales_Pipelines database From FP20 Analytics
+##### FIELD DESCRIPTION:
+- Organization -- Organization that has been identified as a lead and entered into the company's CRM system
+- Country -- Country where the organization is based
+- Industry -- Industry where the organization operates
+- Organization size -- Size of the organization in terms of employee count
+- Owner -- Sales representative to whom the lead is assigned / owns the lead
+- Lead acquisition date -- Date when the lead was entered into the CRM system for the first time
+- Product -- Product that the organization is interested in
+- Status -- Status of the lead
+- Status sequence -- Column indicating the sequence of a step in the lead conversion process
+- Stage -- Stage of the lead who is in the opportunity phase
+- Stage sequence -- Column indicating the sequence of a step in the opportunity phase
+- Deal Value -- Potential value of the deal
+- Probability %  -- Probability that the deal will close
+- Expected close date -- Date when the deal is expected to close
+- Actual close date -- Date when the deal was actually closed
 
-### INSIGHTS
+
+
+### KEY TAKEAWAYS
 1. Italy is the country with the largest deal value with a significant amount of 1,708,790 Euros
 2. Recreation and sports is the industry with the highest deal value
 3. Services and SAAS are the products with the highest probability of closing
@@ -47,7 +67,7 @@
     - Initial contact = 44%
     - Won = 43%
     - Lost = 42%
-12. Big organizations with an enterprice size has the highest average probability of closing deals with 46% percent chances on average 
+12. Big organizations with an enterprize size has the highest average probability of closing deals with 46% percent chances on average 
 13. Micheal Brown is the sales representative with the highest probabaility of closing with 45% chances
 14. Top 8 industries with the highest total deal value includes;
 
