@@ -27,9 +27,9 @@
 3. Services and SAAS are the products with the highest probability of closing
 4. Average deal value acquired in each quarter incluedes;
 
-   - Q1 = 2,632
-   - Q2 = 2,819
-   - Q3 = 2,376
+   - Q1 = 2,632 Euros
+   - Q2 = 2,819 Euros
+   - Q3 = 2,376 Euros
    
 5. Laura Thompson is the sales representative with the highest deal value
 6. The distribution of deal value across different stage includes;
