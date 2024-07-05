@@ -1,5 +1,7 @@
 # sales_exploratory_data-analysis
 
+### INTRODUCTION 
+The goal of this sales EDA project  is to identify patterns, trends, and insights that can inform business decisions and strategies. This analysis will also help in recognizing any anomalies or outliers that could indicate issues or areas for improvement. Ultimately, the insights gained from this exploratory analysis will serve as a foundation for developing data-driven strategies that enhance overall business effectiveness and profitability.
 ### DATA DESCRIPTION 
 ##### DATA SOURCE: CRM_and_Sales_Pipelines database From FP20 Analytics
 ##### FIELD DESCRIPTION:
